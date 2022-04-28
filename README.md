@@ -11,3 +11,7 @@ This is a little project that is being used to help us as students understand ho
 - Communicate about what you want to accomplish
 - Help devlop an environment that helps others learn
 - Provide insight and be willing to learn alongside us
+
+## Contributors
+- Jiaxin Liu
+
