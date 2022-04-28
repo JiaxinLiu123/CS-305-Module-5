@@ -3,4 +3,4 @@
 
 This is a little project that is being used to help us as students understand how to effectively use GitHub to work as a team developing code.
 
-[The License can be found here.]()  
+[The License can be found here.](https://github.com/Demetri-Gl1tch/CS-305-Module-5/blob/main/License)  
